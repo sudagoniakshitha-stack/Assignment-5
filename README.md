@@ -76,34 +76,5 @@ Audible Insights/
 ├── requirements.txt
 └── README.md
 
-## 9. Installation
-
-Clone the repository:
-
-
-git clone YOUR_GITHUB_REPOSITORY_LINK
-Navigate to the project directory:
-
-cd "Audible Insights"
-
-Install the required libraries:
-
-pip install -r requirements.txt
-
-## 10. Run the Application
-
-Start the Streamlit application:
-
-streamlit run app.py
-
-The application will open in your browser.
-
-## 11. Model Evaluation
-
-The recommendation approaches are evaluated using Precision@5 and Recall@5 with rating-based proxy relevance.
-
-The evaluation results should be interpreted in the context of this proxy-based approach and the available dataset.
-
-## 12. Conclusion
 
 Audible Insights demonstrates how Natural Language Processing and Machine Learning can be used to analyze audiobook data and build an interactive book recommendation system.
