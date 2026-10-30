@@ -1,0 +1,4 @@
+Model,Precision@5,Recall@5,Evaluation Type
+content,0.8679999999999999,0.0008391337973704564,Rating-threshold proxy
+clustering,0.8586666666666666,0.0008301108533127096,Rating-threshold proxy
+hybrid,0.8693333333333332,0.0008404227893787058,Rating-threshold proxy
